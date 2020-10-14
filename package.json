@@ -18,6 +18,8 @@
   "homepage": "https://github.com/jwalkfinn/express_test_fe#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "pug": "^3.0.0"
+    "pug": "^3.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   }
 }
